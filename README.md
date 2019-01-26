@@ -1,4 +1,4 @@
-Copyright 2018 Jeremy D Moore
+2018 Jeremy D Moore
 
 # hathitrust-submission-tools
 
